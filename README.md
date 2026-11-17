@@ -1,9 +1,9 @@
 # Little Frog
 
-## Background
+## 📖 Background
 A mobile infinite runner with procedurally generated terrain.
 
-## Functionality
+## 🎮 Functionality
 Mobile-optimised controls and object pooling handle dynamic obstacles (traffic, logs) without performance overhead.
 
 ## 🛠️ Tech Stack
